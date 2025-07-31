@@ -94569,8 +94569,8 @@ $0(){A.aF(this.a,!1).bt(null)
 return null},
 $S:0}
 A.aaI.prototype={
-$1(a0){var s,r,q,p,o,n,m,l,k,j=null,i="January 4, 2025 - 15:30 UTC",h="December 30, 2024 - 14:20 UTC",g=t.p,f=A.K(A.a([A.ai(B.MW,B.m,j,24),B.E,A.f("This is what I have been working on",j,j,j,j,B.ax.H(B.O,B.q),j,j,j)],g),B.h,B.d,B.e,0,j),e=B.c.O(25.5),d=A.t(e,B.m.j()>>>16&255,B.m.j()>>>8&255,B.m.j()&255),c=A.B(12),b=B.c.O(76.5),a=A.bj(A.t(b,B.m.j()>>>16&255,B.m.j()>>>8&255,B.m.j()&255),1)
-c=A.F(j,A.K(A.a([A.ai(B.jT,B.m,j,20),B.E,A.y(A.G(A.a([A.f("Current Version: v1.2.0",j,j,j,j,B.z.H(B.m,B.q),j,j,j),A.f("Released: January 4, 2025 at 15:30 UTC",j,j,j,j,B.v.R(B.K),j,j,j)],g),B.x,B.d,B.e,0,B.k),1)],g),B.h,B.d,B.e,0,j),B.j,j,j,new A.J(d,j,a,c,j,j,B.n),j,j,j,B.L,j,j,j)
+$1(a0){var s,r,q,p,o,n,m,l,k,j=null,i="July 31, 2024 - 15:30 UTC",h="December 30, 2024 - 14:20 UTC",g=t.p,f=A.K(A.a([A.ai(B.MW,B.m,j,24),B.E,A.f("This is what I have been working on",j,j,j,j,B.ax.H(B.O,B.q),j,j,j)],g),B.h,B.d,B.e,0,j),e=B.c.O(25.5),d=A.t(e,B.m.j()>>>16&255,B.m.j()>>>8&255,B.m.j()&255),c=A.B(12),b=B.c.O(76.5),a=A.bj(A.t(b,B.m.j()>>>16&255,B.m.j()>>>8&255,B.m.j()&255),1)
+c=A.F(j,A.K(A.a([A.ai(B.jT,B.m,j,20),B.E,A.y(A.G(A.a([A.f("Current Version: v1.2.0",j,j,j,j,B.z.H(B.m,B.q),j,j,j),A.f("Released: July 31, 2024 at 15:30 UTC",j,j,j,j,B.v.R(B.K),j,j,j)],g),B.x,B.d,B.e,0,B.k),1)],g),B.h,B.d,B.e,0,j),B.j,j,j,new A.J(d,j,a,c,j,j,B.n),j,j,j,B.L,j,j,j)
 a=A.f("\ud83d\ude80 Latest Features (v1.2.0)",j,j,j,j,B.bv.H(B.O,B.q),j,j,j)
 d=this.a
 s=d.o7("Enhanced Class Edit Functionality","Coaches can now edit class dates, times, and all properties with comprehensive form validation.",i,B.Np,B.m)
