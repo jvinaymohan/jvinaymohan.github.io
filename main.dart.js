@@ -94569,7 +94569,7 @@ $0(){A.aF(this.a,!1).bt(null)
 return null},
 $S:0}
 A.aaI.prototype={
-$1(a0){var s,r,q,p,o,n,m,l,k,j=null,i="July 31, 2024 - 15:30 UTC",h="December 30, 2024 - 14:20 UTC",g=t.p,f=A.K(A.a([A.ai(B.MW,B.m,j,24),B.E,A.f("This is what I have been working on",j,j,j,j,B.ax.H(B.O,B.q),j,j,j)],g),B.h,B.d,B.e,0,j),e=B.c.O(25.5),d=A.t(e,B.m.j()>>>16&255,B.m.j()>>>8&255,B.m.j()&255),c=A.B(12),b=B.c.O(76.5),a=A.bj(A.t(b,B.m.j()>>>16&255,B.m.j()>>>8&255,B.m.j()&255),1)
+$1(a0){var s,r,q,p,o,n,m,l,k,j=null,i="July 31, 2024 - 15:30 UTC",h="July 30, 2024 - 14:20 UTC",g=t.p,f=A.K(A.a([A.ai(B.MW,B.m,j,24),B.E,A.f("This is what I have been working on",j,j,j,j,B.ax.H(B.O,B.q),j,j,j)],g),B.h,B.d,B.e,0,j),e=B.c.O(25.5),d=A.t(e,B.m.j()>>>16&255,B.m.j()>>>8&255,B.m.j()&255),c=A.B(12),b=B.c.O(76.5),a=A.bj(A.t(b,B.m.j()>>>16&255,B.m.j()>>>8&255,B.m.j()&255),1)
 c=A.F(j,A.K(A.a([A.ai(B.jT,B.m,j,20),B.E,A.y(A.G(A.a([A.f("Current Version: v1.2.0",j,j,j,j,B.z.H(B.m,B.q),j,j,j),A.f("Released: July 31, 2024 at 15:30 UTC",j,j,j,j,B.v.R(B.K),j,j,j)],g),B.x,B.d,B.e,0,B.k),1)],g),B.h,B.d,B.e,0,j),B.j,j,j,new A.J(d,j,a,c,j,j,B.n),j,j,j,B.L,j,j,j)
 a=A.f("\ud83d\ude80 Latest Features (v1.2.0)",j,j,j,j,B.bv.H(B.O,B.q),j,j,j)
 d=this.a
@@ -94580,7 +94580,7 @@ p=d.o7("Payment Management System","Complete payment tracking with due amounts, 
 o=A.f("\ud83d\udccb Previous Updates",j,j,j,j,B.bv.H(B.O,B.q),j,j,j)
 n=d.o7("Class Creation & Management","Coaches can create classes with duration auto-calculation, currency options (including INR), and payment types.",h,B.jM,B.m)
 m=d.o7("Student Enrollment System","Comprehensive student enrollment with class capacity management and enrollment tracking.",h,B.cK,B.r)
-d=d.o7("Beta Version Launch","Initial beta release with core task management, user authentication, and basic class functionality.","December 29, 2024 - 10:00 UTC",B.Nq,B.F)
+d=d.o7("Beta Version Launch","Initial beta release with core task management, user authentication, and basic class functionality.","July 29, 2024 - 10:00 UTC",B.Nq,B.F)
 l=A.B(12)
 k=A.bj(B.bp,1)
 l=A.F(j,A.G(A.a([A.K(A.a([A.ai(B.cg,B.K,j,20),B.E,A.f("Coming Soon",j,j,j,j,B.z.H(B.U,B.q),j,j,j)],g),B.h,B.d,B.e,0,j),B.D,A.f("\u2022 Real-time notifications for attendance and payments\n\u2022 Advanced analytics and reporting\n\u2022 Mobile app version\n\u2022 Integration with payment gateways\n\u2022 Automated attendance reminders",j,j,j,j,B.v.R(B.K),j,j,j)],g),B.x,B.d,B.e,0,B.k),B.j,j,j,new A.J(B.j4,j,k,l,j,j,B.n),j,j,j,B.L,j,j,j)
