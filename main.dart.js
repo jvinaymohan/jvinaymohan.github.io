@@ -94676,26 +94676,26 @@ $0(){A.aC(this.a,!1).bw(null)
 return null},
 $S:0}
 A.azh.prototype={
-$1(a0){var s,r,q,p,o,n,m,l,k,j=null,i="July 31, 2024 - 15:30 UTC",h="July 30, 2024 - 14:20 UTC",g=t.p,f=A.I(A.a([A.ag(B.Nb,B.j,j,24),B.E,A.e("This is what I have been working on",j,j,j,j,B.ao.F(B.M,B.q),j,j,j)],g),B.i,B.d,B.e,0,j),e=B.c.N(25.5),d=A.n(e,B.j.j()>>>16&255,B.j.j()>>>8&255,B.j.j()&255),c=A.x(12),b=B.c.N(76.5),a=A.bg(A.n(b,B.j.j()>>>16&255,B.j.j()>>>8&255,B.j.j()&255),1)
-c=A.y(j,A.I(A.a([A.ag(B.jZ,B.j,j,20),B.E,A.z(A.C(A.a([A.e("Current Version: v1.2.0",j,j,j,j,B.z.F(B.j,B.q),j,j,j),A.e("Released: July 31, 2024 at 15:30 UTC",j,j,j,j,B.w.P(B.I),j,j,j)],g),B.x,B.d,B.e,0,B.l),1)],g),B.i,B.d,B.e,0,j),B.k,j,j,new A.A(d,j,a,c,j,j,B.m),j,j,j,B.N,j,j,j)
-a=A.e("\ud83d\ude80 Latest Features (v1.2.0)",j,j,j,j,B.bq.F(B.M,B.q),j,j,j)
-d=this.a
-s=d.o5("Enhanced Class Edit Functionality","Coaches can now edit class dates, times, and all properties with comprehensive form validation.",i,B.NE,B.j)
-r=d.o5("Comprehensive Student Dashboard","Students now have detailed class views with attendance tracking, payment summaries, and individual class management.",i,B.nm,B.r)
-q=d.o5("Advanced Attendance Tracking","Visual status indicators (Green for Present, Red for Absent) with comprehensive attendance management and history.",i,B.cO,B.C)
-p=d.o5("Payment Management System","Complete payment tracking with due amounts, payment history, and recording capabilities with notes and dates.",i,B.hY,B.Y)
+$1(a){var s,r,q,p,o,n,m,l,k,j=null,i="July 31, 2025 at 02:16 UTC",h=t.p,g=A.I(A.a([A.ag(B.Nb,B.j,j,24),B.E,A.e("This is what I have been working on",j,j,j,j,B.ao.F(B.M,B.q),j,j,j)],h),B.i,B.d,B.e,0,j),f=B.c.N(25.5),e=A.n(f,B.j.j()>>>16&255,B.j.j()>>>8&255,B.j.j()&255),d=A.x(12),c=B.c.N(76.5),b=A.bg(A.n(c,B.j.j()>>>16&255,B.j.j()>>>8&255,B.j.j()&255),1)
+d=A.y(j,A.I(A.a([A.ag(B.jZ,B.j,j,20),B.E,A.z(A.C(A.a([A.e("Current Version: v1.2.0",j,j,j,j,B.z.F(B.j,B.q),j,j,j),A.e("Released: July 31, 2025 at 02:17 UTC",j,j,j,j,B.w.P(B.I),j,j,j)],h),B.x,B.d,B.e,0,B.l),1)],h),B.i,B.d,B.e,0,j),B.k,j,j,new A.A(e,j,b,d,j,j,B.m),j,j,j,B.N,j,j,j)
+b=A.e("\ud83d\ude80 Latest Features (v1.2.0)",j,j,j,j,B.bq.F(B.M,B.q),j,j,j)
+e=this.a
+s=e.o5("Enhanced Class Edit Functionality","Coaches can now edit class dates, times, and all properties with comprehensive form validation.",i,B.NE,B.j)
+r=e.o5("Comprehensive Student Dashboard","Students now have detailed class views with attendance tracking, payment summaries, and individual class management.",i,B.nm,B.r)
+q=e.o5("Advanced Attendance Tracking","Visual status indicators (Green for Present, Red for Absent) with comprehensive attendance management and history.",i,B.cO,B.C)
+p=e.o5("Payment Management System","Complete payment tracking with due amounts, payment history, and recording capabilities with notes and dates.",i,B.hY,B.Y)
 o=A.e("\ud83d\udccb Previous Updates",j,j,j,j,B.bq.F(B.M,B.q),j,j,j)
-n=d.o5("Class Creation & Management","Coaches can create classes with duration auto-calculation, currency options (including INR), and payment types.",h,B.jR,B.j)
-m=d.o5("Student Enrollment System","Comprehensive student enrollment with class capacity management and enrollment tracking.",h,B.cO,B.r)
-d=d.o5("Beta Version Launch","Initial beta release with core task management, user authentication, and basic class functionality.","July 29, 2024 - 10:00 UTC",B.NF,B.C)
+n=e.o5("Class Creation & Management","Coaches can create classes with duration auto-calculation, currency options (including INR), and payment types.",i,B.jR,B.j)
+m=e.o5("Student Enrollment System","Comprehensive student enrollment with class capacity management and enrollment tracking.",i,B.cO,B.r)
+e=e.o5("Beta Version Launch","Initial beta release with core task management, user authentication, and basic class functionality.",i,B.NF,B.C)
 l=A.x(12)
 k=A.bg(B.bt,1)
-l=A.y(j,A.C(A.a([A.I(A.a([A.ag(B.ck,B.I,j,20),B.E,A.e("Coming Soon",j,j,j,j,B.z.F(B.U,B.q),j,j,j)],g),B.i,B.d,B.e,0,j),B.F,A.e("\u2022 Real-time notifications for attendance and payments\n\u2022 Advanced analytics and reporting\n\u2022 Mobile app version\n\u2022 Integration with payment gateways\n\u2022 Automated attendance reminders",j,j,j,j,B.w.P(B.I),j,j,j)],g),B.x,B.d,B.e,0,B.l),B.k,j,j,new A.A(B.j9,j,k,l,j,j,B.m),j,j,j,B.N,j,j,j)
-e=A.n(e,B.C.j()>>>16&255,B.C.j()>>>8&255,B.C.j()&255)
+l=A.y(j,A.C(A.a([A.I(A.a([A.ag(B.ck,B.I,j,20),B.E,A.e("Coming Soon",j,j,j,j,B.z.F(B.U,B.q),j,j,j)],h),B.i,B.d,B.e,0,j),B.F,A.e("\u2022 Real-time notifications for attendance and payments\n\u2022 Advanced analytics and reporting\n\u2022 Mobile app version\n\u2022 Integration with payment gateways\n\u2022 Automated attendance reminders",j,j,j,j,B.w.P(B.I),j,j,j)],h),B.x,B.d,B.e,0,B.l),B.k,j,j,new A.A(B.j9,j,k,l,j,j,B.m),j,j,j,B.N,j,j,j)
+f=A.n(f,B.C.j()>>>16&255,B.C.j()>>>8&255,B.C.j()&255)
 k=A.x(12)
-b=A.bg(A.n(b,B.C.j()>>>16&255,B.C.j()>>>8&255,B.C.j()&255),1)
-k=A.bp(A.e7(A.C(A.a([c,B.ad,a,B.u,s,r,q,p,B.ad,o,B.u,n,m,d,B.ad,l,B.ad,A.y(j,A.C(A.a([A.I(A.a([A.ag(B.jT,B.C,j,20),B.E,A.e("We Value Your Feedback!",j,j,j,j,B.z.F(B.C,B.q),j,j,j)],g),B.i,B.d,B.e,0,j),B.F,A.e("This is a beta version and we're actively improving based on user feedback. Please share your thoughts and suggestions to help us make this platform better!",j,j,j,j,B.w.P(B.U),j,j,j)],g),B.x,B.d,B.e,0,B.l),B.k,j,j,new A.A(e,j,b,k,j,j,B.m),j,j,j,B.N,j,j,j)],g),B.x,B.d,B.e,0,B.l),j,B.T,j,j,j,B.a6),600,700)
-return A.cH(A.a([A.c7(A.e("Close",j,j,j,j,B.z.F(B.j,B.B),j,j,j),new A.azg(a0),j)],g),k,j,f)},
+c=A.bg(A.n(c,B.C.j()>>>16&255,B.C.j()>>>8&255,B.C.j()&255),1)
+k=A.bp(A.e7(A.C(A.a([d,B.ad,b,B.u,s,r,q,p,B.ad,o,B.u,n,m,e,B.ad,l,B.ad,A.y(j,A.C(A.a([A.I(A.a([A.ag(B.jT,B.C,j,20),B.E,A.e("We Value Your Feedback!",j,j,j,j,B.z.F(B.C,B.q),j,j,j)],h),B.i,B.d,B.e,0,j),B.F,A.e("This is a beta version and we're actively improving based on user feedback. Please share your thoughts and suggestions to help us make this platform better!",j,j,j,j,B.w.P(B.U),j,j,j)],h),B.x,B.d,B.e,0,B.l),B.k,j,j,new A.A(f,j,c,k,j,j,B.m),j,j,j,B.N,j,j,j)],h),B.x,B.d,B.e,0,B.l),j,B.T,j,j,j,B.a6),600,700)
+return A.cH(A.a([A.c7(A.e("Close",j,j,j,j,B.z.F(B.j,B.B),j,j,j),new A.azg(a),j)],h),k,j,g)},
 $S:8}
 A.azg.prototype={
 $0(){A.aC(this.a,!1).bw(null)
